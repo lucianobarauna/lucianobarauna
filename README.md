@@ -49,4 +49,5 @@ e minhas soft skills.
 
 ## Créditos
 [Gerador do readme](https://readme.so/pt)
+
 [Repositório das badges](https://github.com/Ileriayo/markdown-badges)
