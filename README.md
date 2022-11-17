@@ -48,4 +48,5 @@ e minhas soft skills.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Créditos
+[Gerador do readme](https://readme.so/pt)
 [Repositório das badges](https://github.com/Ileriayo/markdown-badges)
