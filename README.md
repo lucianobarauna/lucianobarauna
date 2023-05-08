@@ -10,7 +10,7 @@ Defensor de componentização e boas práticas para um bom código e design syst
 Estou sempre em busca de novos conhecimentos e desafios que me façam melhorar o código
 e minhas soft skills.
 
-👩‍💻 Atualmente estou a procura de emprego
+👩‍💻 Atualmente trabalhando na [Tokenology](https://tokenologylabs.com/)
 
 🧠 Meus estudos e experimentos você encontra no [Luciano Barauna Labs](https://github.com/lucianoBaraunaLabs)
 
